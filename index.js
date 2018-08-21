@@ -6,8 +6,9 @@ function myAnimal() {
 
 function myfunction() {
   var animal = "dog"
-  return = animal
+  return = animal;
 }
+
 
 function yourAnimal() {
   // How can we make sure that this function
