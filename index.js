@@ -4,7 +4,7 @@ function myAnimal() {
   return animal
 }
 
-
+function myfunction() {
 
 function yourAnimal() {
   // How can we make sure that this function
